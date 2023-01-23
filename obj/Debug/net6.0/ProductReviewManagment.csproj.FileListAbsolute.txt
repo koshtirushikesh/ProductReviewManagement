@@ -1,0 +1,15 @@
+C:\Users\rushi\source\repos\ProductReviewManagment\bin\Debug\net6.0\ProductReviewManagment.exe
+C:\Users\rushi\source\repos\ProductReviewManagment\bin\Debug\net6.0\ProductReviewManagment.deps.json
+C:\Users\rushi\source\repos\ProductReviewManagment\bin\Debug\net6.0\ProductReviewManagment.runtimeconfig.json
+C:\Users\rushi\source\repos\ProductReviewManagment\bin\Debug\net6.0\ProductReviewManagment.dll
+C:\Users\rushi\source\repos\ProductReviewManagment\bin\Debug\net6.0\ProductReviewManagment.pdb
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.csproj.AssemblyReference.cache
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.AssemblyInfoInputs.cache
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.AssemblyInfo.cs
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.csproj.CoreCompileInputs.cache
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.dll
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\refint\ProductReviewManagment.dll
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.pdb
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ProductReviewManagment.genruntimeconfig.cache
+C:\Users\rushi\source\repos\ProductReviewManagment\obj\Debug\net6.0\ref\ProductReviewManagment.dll
