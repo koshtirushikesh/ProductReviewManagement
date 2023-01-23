@@ -26,7 +26,8 @@ namespace ProductReviewManagment
             //}
 
             Mangement mangement = new Mangement();
-            mangement.TopRecords(productReview);
+            // mangement.TopRecords(productReview);
+            mangement.SelectRecordes(productReview);
 
 
         }
