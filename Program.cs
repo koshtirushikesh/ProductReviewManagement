@@ -20,12 +20,15 @@ namespace ProductReviewManagment
                 new ProductReview() { ProductId = 9, UserId = 6, Rating = 3, Review = "good", isLike = true },
             };
 
-            foreach (var list in productReview)
-            {
-                Console.WriteLine("Product id: " + list.ProductId + " User id: " + list.UserId + " rating : " + list.Rating + " Review: " + list.Review + " isLike " + list.isLike);
-            }
+            //foreach (var list in productReview)
+            //{
+            //    Console.WriteLine("Product id: " + list.ProductId + " User id: " + list.UserId + " rating : " + list.Rating + " Review: " + list.Review + " isLike " + list.isLike);
+            //}
 
-            
+            Mangement mangement = new Mangement();
+            mangement.TopRecords(productReview);
+
+
         }
 
     }
