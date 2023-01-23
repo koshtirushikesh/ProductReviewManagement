@@ -27,7 +27,8 @@ namespace ProductReviewManagment
 
             Mangement mangement = new Mangement();
             // mangement.TopRecords(productReview);
-            mangement.SelectRecordes(productReview);
+            //mangement.SelectRecordes(productReview);
+            mangement.RetriveCountOfRecords(productReview);
 
 
         }
